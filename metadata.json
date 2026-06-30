@@ -1,0 +1,8 @@
+{
+  "name": "AI Prompt Builder Modul Ajar",
+  "description": "Aplikasi Prompt Builder Modul Ajar Sekolah Model berbasis Pembelajaran Mendalam (PM), Koding, dan Kecerdasan Artifisial (KKA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
